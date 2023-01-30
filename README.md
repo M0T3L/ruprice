@@ -4,7 +4,7 @@
 
 `
 >**Requirements:**
-*- alacritty
+- alacritty
 - bspwm
 - htop
 - light
@@ -12,5 +12,5 @@
 - neovim
 - picom
 - polybar
-- rofi*
+- rofi
 `
