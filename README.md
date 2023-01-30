@@ -1,7 +1,7 @@
 ### BSPWM DOTFILES
 
-"""
-Requirements:
+>Requirements:
+
 alacritty
 bspwm
 htop
@@ -10,5 +10,4 @@ neofetch
 neovim
 picom
 polybar
-rofi
-"""
+>rofi
