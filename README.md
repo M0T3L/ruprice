@@ -1,13 +1,14 @@
 ### BSPWM DOTFILES
 
->Requirements:
+![screenshots](image.jpg)
 
-alacritty
-bspwm
-htop
-light
-neofetch
-neovim
-picom
-polybar
->rofi
+'>Requirements:
+- alacritty
+- bspwm
+- htop
+- light
+- neofetch
+- neovim
+- picom
+- polybar
+- rofi'
