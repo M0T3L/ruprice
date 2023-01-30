@@ -12,6 +12,8 @@
 - rofi
 - nitrogen
 - zathura
+- SF Pro Fonts
+- SFMono Nerd Fonts
 
 ## Preview
 ![screenshots](preview.jpg)
