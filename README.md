@@ -1,9 +1,6 @@
 ### BSPWM DOTFILES
 
-![screenshots](image.jpg)
-
-`
->**Requirements:**
+#>**Requirements:**
 - alacritty
 - bspwm
 - htop
@@ -13,4 +10,5 @@
 - picom
 - polybar
 - rofi
-`
+
+![screenshots](image.jpg)
