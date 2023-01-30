@@ -2,7 +2,8 @@
 
 ![screenshots](image.jpg)
 
-'>Requirements:
+'
+>Requirements:
 - alacritty
 - bspwm
 - htop
@@ -11,4 +12,5 @@
 - neovim
 - picom
 - polybar
-- rofi'
+- rofi
+- '
