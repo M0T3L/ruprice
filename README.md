@@ -10,6 +10,8 @@
 - picom
 - polybar
 - rofi
+- nitrogen
+- zathura
 
 ## Preview
 ![screenshots](preview.jpg)
